@@ -1,7 +1,7 @@
 Votebot (version 0.9.4) by Adam Cz.
 
 A small proof-of-concept bot to show an automation process of voting
-on a radio page with usage of threading and TOR process. It was written
+on a radio page with usage of threading and TOR processes. It was written
 as fast as possible, so it can still contain a lot of minor bugs.
 
 Remember to edit TOR_PATH global at the beginning, depending on which OS
