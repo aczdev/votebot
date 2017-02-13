@@ -1,0 +1,12 @@
+Votebot (version 0.9.4) by Adam Cz.
+
+A small proof-of-concept bot to show an automation process of voting
+on a radio page with usage of threading and TOR process. It was written
+as fast as possible, so it can still contain a lot of minor bugs.
+
+Remember to edit TOR_PATH global at the beginning, depending on which OS
+you are using! You can download TOR client from https://www.torproject.org/
+
+To run the bot you need to have a list of necessary packages installed. 
+You can to that by using PIP:
+pip install pyqt5 stem requests[socks] beautifulsoup4 psutil
